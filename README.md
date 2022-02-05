@@ -15,3 +15,7 @@ Need to learn, how to deploy
 
 ## Are you ready???
 once i am ready, i will be obviously ready. Cool
+
+## Copy Right
+
+This is copyright ot mr karthik
