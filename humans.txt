@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <karthik> -- <dataengineer> -- <twitter>
 
 # THANKS
 
