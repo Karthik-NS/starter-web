@@ -19,3 +19,7 @@ once i am ready, i will be obviously ready. Cool
 ## Copy Right
 
 This is copyright ot mr karthik
+
+## How to contribute
+
+let see what i can do
