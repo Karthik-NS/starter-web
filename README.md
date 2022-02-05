@@ -11,4 +11,7 @@ to learn git and git hub
 Sample website with plenty of files for demos
 
 ## Deployment
-Will go for deployment, once I learned
+Need to learn, how to deploy
+
+## Are you ready???
+once i am ready, i will be obviously ready. Cool
